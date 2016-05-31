@@ -1,1 +1,1 @@
-wing server
+wing server use golang development
